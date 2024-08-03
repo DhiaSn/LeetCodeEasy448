@@ -26,4 +26,4 @@ Given an array `nums` of `n` integers where `nums[i]` is in the range `[1, n]`, 
 
 Feel free to check my project and if you find it helpful, please upvote my solution on LeetCode.
 
-[![Click here](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/5579989/beats-9958-with-few-lines-of-code/)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/5579989/beats-9958-with-few-lines-of-code/)
+[Click here](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/5579989/beats-9958-with-few-lines-of-code/)
